@@ -2,10 +2,11 @@ body {
   background-image: url(/images/blur.jpg);
   background-size: cover;
   font-size: large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .center-page {
-  background-color: #e9fcfc;
+  background-color: #dff4f4;
   background-size: cover;
   margin-left: 15%;
   margin-right: 15%;
@@ -28,7 +29,7 @@ hr {
 
 img {
   border-radius: 100%;
-  margin-left: 128%;
+  margin-left: 90%;
 }
 
 .resume {
@@ -86,7 +87,7 @@ a:active {
 
 #right {
   text-align: right;
-  margin-left: 35%;
+  margin-left: 30%;
 }
 
 #right-1 {
