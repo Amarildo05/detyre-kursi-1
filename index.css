@@ -39,6 +39,7 @@ img {
   color: teal;
   text-align: center;
   padding-top: 20px;
+  text-shadow: 1px 1px 1px rgb(97, 124, 124);
 }
 
 .links {
@@ -119,6 +120,10 @@ a:active {
 
 .left-content {
   margin-left: 140px;
+}
+
+h3 {
+  padding-top: 15px;
 }
 
 p {
