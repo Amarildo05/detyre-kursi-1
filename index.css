@@ -47,6 +47,8 @@ img {
   flex-direction: column;
 }
 
+/* a1 shoudl be replaced with list filters css */
+
 #a1 {
   margin-bottom: 4%;
 }
@@ -91,35 +93,14 @@ a:active {
   margin-left: 30%;
 }
 
-#right-1 {
-  margin-left: 20%;
-}
-
-#right-2 {
-  margin-left: 20%;
-}
-
-#right-3 {
-  margin-left: 33%;
-}
-
-#right-4 {
-  margin-left: 22%;
-}
-
-#right-5 {
-  margin-top: 25px;
-  margin-bottom: 25px;
-  margin-left: 34%;
-}
-
-#right-6 {
-  margin-bottom: 25px;
-  margin-left: 35%;
+.right-content {
+  margin-right: 0;
+  margin-left: 100px;
 }
 
 .left-content {
   margin-left: 140px;
+  width: 400px;
 }
 
 h3 {
